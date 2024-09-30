@@ -2,7 +2,7 @@
  *
  * Created by: Lucas Nguyen
  * Created on: Sep 2024
- * This program lights an LED when A is presssed, and turns it off with B.
+ * This program lights an LED when A is pressed, and turns it off with B.
 */
 
 // setup
